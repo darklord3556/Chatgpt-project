@@ -8,6 +8,7 @@ public class ChatgptProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChatgptProjectApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
